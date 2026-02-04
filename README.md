@@ -96,11 +96,6 @@ npm run dev
 
 ### Contentful CMS
 
-Produk diambil dari Contentful dengan konfigurasi di `src/constants/index.ts`:
-
-- **Space ID**: `9wbqh0yntm06`
-- **Content Type**: `parfumes`
-
 Fields yang digunakan:
 - `name` - Nama parfum
 - `description` - Deskripsi
